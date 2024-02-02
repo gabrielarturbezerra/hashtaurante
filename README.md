@@ -1,8 +1,18 @@
-# React + Vite
+<h1 align="center">Intensivão de JavaScript</h1>
+<div align="center"><i>Criando um Cardápio online | VITE + REACT </i><br><br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositório trata-se do dia 3 da semana "Intensivão de JavaScript" da [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/) em 01/02/2024. Este projeto cria um cardápio digital e interativo da Hashtaurante, utilizando HTML, CSS, JavaScript e React com [Vite](https://vitejs.dev/). Todo o projeto foi desenvolvido no Visual Studio Code.
+Projeto simples, mas realizei algumas melhorias visuais: Adição de uma temática para o litoral.
+<h2 align="left"> Instruções </h2>
 
-Currently, two official plugins are available:
+![Projeto](https://github.com/gabrielarturbezerra/hashtaurante/blob/main/Projeto.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Certifique-se de ter instalado o [NODEJS](https://nodejs.org/en/download), após isso dentro da pasta do projeto execute no cmd os comandos a seguir:
+
+```bash
+- npm create vite@latest
+- React
+- JavaScript
+- cd hashtaurante (nome do projeto criado)
+- npm install
+- npm run dev
